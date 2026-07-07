@@ -1,0 +1,26 @@
+Prayer Times helps Muslims keep daily prayer times, qibla direction, reminders, Ramadan entries and Islamic calendar dates in one Android app.
+
+The app calculates Fajr, Sunrise, Dhuhr, Asr, Maghrib and Isha using well-known calculation methods. It can choose a method automatically from the selected location, or you can select a method and Asr rule manually.
+
+Main features:
+
+- Daily prayer times with the current prayer highlighted.
+- Countdown for the active prayer period and the next prayer.
+- Month schedule export to PDF and ICS.
+- Qibla compass with direction angle.
+- Saved locations, city search and manual map point selection.
+- Optional notifications before prayer start, at prayer start and before prayer end.
+- Optional adhan at prayer start.
+- Per-prayer notification profiles.
+- Iqama and jamaat offsets for saved locations.
+- Hijri calendar and major Islamic holidays.
+- Ramadan mode with suhoor, iftar and tarawih labels.
+- Sunnah and nafl prayer windows.
+- Home screen widget.
+- JSON backup and restore for settings and locations.
+- Light and dark themes.
+- Multiple languages with RTL support.
+
+Locations and settings are stored locally on the device. Internet access is used for map tiles, address search and mosque lookup.
+
+Prayer times and Hijri dates are calculated values. Local mosques or religious authorities may use regional rules, minute offsets or moon-sighting decisions, so adjust the app when your local schedule differs.

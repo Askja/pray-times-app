@@ -1,0 +1,1 @@
+Initial F-Droid-ready release: prayer times, qibla compass, adhan, notifications, saved locations, Hijri calendar, Islamic holidays, Ramadan mode, sunnah prayer windows, widget and JSON backup.

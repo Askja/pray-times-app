@@ -1,0 +1,25 @@
+Categories:
+  - Time
+License: Apache-2.0
+AuthorName: Askja
+SourceCode: https://github.com/Askja/pray-times-app
+IssueTracker: https://github.com/Askja/pray-times-app/issues
+Changelog: https://github.com/Askja/pray-times-app/releases
+
+AutoName: Prayer Times
+Summary: Prayer times, qibla, adhan, Ramadan and Islamic calendar
+
+RepoType: git
+Repo: https://github.com/Askja/pray-times-app.git
+
+Builds:
+  - versionName: 0.1.1
+    versionCode: 2
+    commit: v0.1.1
+    gradle:
+      - yes
+
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags
+CurrentVersion: 0.1.1
+CurrentVersionCode: 2

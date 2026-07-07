@@ -1,0 +1,13 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:dither="true"
+            android:src="@drawable/holiday_texture_tile"
+            android:tileMode="repeat" />
+    </item>
+    <item>
+        <shape>
+            <solid android:color="#14B8751E" />
+        </shape>
+    </item>
+</layer-list>

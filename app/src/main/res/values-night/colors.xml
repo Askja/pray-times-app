@@ -1,0 +1,29 @@
+<resources>
+    <color name="color_background">#0B1210</color>
+    <color name="color_surface">#151F1B</color>
+    <color name="color_surface_card">#CC151F1B</color>
+    <color name="color_surface_muted">#1E2A25</color>
+    <color name="color_surface_muted_card">#CC1E2A25</color>
+    <color name="color_text">#F5FAF6</color>
+    <color name="color_muted">#AFC1B9</color>
+    <color name="color_primary">#65D8B7</color>
+    <color name="color_primary_card">#CC226D5C</color>
+    <color name="color_primary_dark">#B8F5E3</color>
+    <color name="color_primary_dark_card">#CC0E3E35</color>
+    <color name="color_primary_soft">#213B33</color>
+    <color name="color_primary_soft_card">#CC213B33</color>
+    <color name="color_accent">#F4C66E</color>
+    <color name="color_accent_soft">#3B2E1C</color>
+    <color name="color_accent_soft_card">#CC3B2E1C</color>
+    <color name="color_rose">#FF9AA6</color>
+    <color name="color_rose_soft">#46272D</color>
+    <color name="color_rose_soft_card">#CC46272D</color>
+    <color name="color_info">#8CCBFA</color>
+    <color name="color_info_soft">#1B3446</color>
+    <color name="color_info_soft_card">#CC1B3446</color>
+    <color name="color_divider">#304039</color>
+    <color name="color_current_prayer">#1C493A</color>
+    <color name="color_current_prayer_card">#CC1C493A</color>
+    <color name="color_on_primary">#F8FFF9</color>
+    <color name="color_on_primary_muted">#BED8CF</color>
+</resources>

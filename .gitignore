@@ -1,0 +1,49 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+keystore.properties
+signing/*.properties
+*.jks
+*.keystore
+*.p12
+
+# IDE
+.idea/
+*.iml
+
+# Kotlin / Java
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
+hs_err_pid*
+
+# .NET source reference build artifacts
+adhan-csharp-.net-9.0-master/
+**/bin/
+**/obj/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Lock files: не тащим это добро в PR без отдельного решения.
+package-lock.json
+packages-lock.json
+packages.lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lock
+bun.lockb
+composer.lock
+Gemfile.lock
