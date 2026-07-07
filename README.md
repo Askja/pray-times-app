@@ -33,6 +33,10 @@ Android-приложение на Kotlin для расчета времен на
 - Черновик F-Droid metadata для `fdroiddata`: `docs/fdroid/ru.admiral.praytimes.yml`.
 - Инструкция публикации в F-Droid: `docs/fdroid/README.md`.
 
+Публичный репозиторий: https://github.com/Askja/pray-times-app
+
+Релиз 0.1.1: https://github.com/Askja/pray-times-app/releases/tag/v0.1.1
+
 ## Лицензия
 
 Проект опубликован под Apache-2.0. Автор: Askja.

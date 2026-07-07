@@ -25,6 +25,7 @@
 | RUTUBE | оставить пустым, если видео пока нет |
 | Файлы | загрузить релизный APK |
 | Ссылка на APK | указать только если APK лежит на сайте разработчика |
+| GitHub Release | `https://github.com/Askja/pray-times-app/releases/tag/v0.1.1` |
 
 ## Файлы и изображения
 
@@ -277,6 +278,18 @@ Aligned APK - это ещё не подписанный APK. Samsung/One UI та
 
 Использовать только если APK доступен с сайта разработчика. Если файл загружен прямо в тему, поле можно оставить пустым.
 
+GitHub-зеркало APK:
+
+```text
+https://github.com/Askja/pray-times-app/releases/download/v0.1.1/pray-times-0.1.1-4pda-signed.apk
+```
+
+SHA-256:
+
+```text
+D0B0A75CA8EA58B6295A66057268FD8DE7C6610B404522913A10A33F8761B22A
+```
+
 ### Источник, авторство и пакет для модератора
 
 Если модератор просит подтверждение по правилу 2.4, вставить в комментарий или шапку:
@@ -292,6 +305,15 @@ Aligned APK - это ещё не подписанный APK. Samsung/One UI та
 ```text
 Источник: https://f-droid.org/packages/ru.admiral.praytimes/
 Исходный код: <ссылка на публичный Git-репозиторий>
+Разработчик: Askja, автор темы
+Имя пакета: ru.admiral.praytimes
+```
+
+Для текущей версии без F-Droid достаточно GitHub:
+
+```text
+Источник: https://github.com/Askja/pray-times-app
+Релиз: https://github.com/Askja/pray-times-app/releases/tag/v0.1.1
 Разработчик: Askja, автор темы
 Имя пакета: ru.admiral.praytimes
 ```

@@ -40,6 +40,20 @@
 | `docs/fdroid/ru.admiral.praytimes.yml` | Черновик metadata для merge request в `fdroiddata`. |
 | `docs/fdroid/README.md` | Порядок публикации в F-Droid. |
 
+## Публичные ссылки
+
+| Ссылка | Назначение |
+| --- | --- |
+| `https://github.com/Askja/pray-times-app` | Публичный исходный код для 4PDA и F-Droid. |
+| `https://github.com/Askja/pray-times-app/releases/tag/v0.1.1` | GitHub Release версии 0.1.1. |
+| `https://github.com/Askja/pray-times-app/releases/download/v0.1.1/pray-times-0.1.1-4pda-signed.apk` | Зеркало подписанного APK. |
+
+SHA-256 подписанного APK:
+
+```text
+D0B0A75CA8EA58B6295A66057268FD8DE7C6610B404522913A10A33F8761B22A
+```
+
 ## Перед публикацией
 
 - Загружать `app/build/outputs/apk/release/pray-times-0.1.1-4pda-signed.apk`, а не debug, unsigned или aligned.
